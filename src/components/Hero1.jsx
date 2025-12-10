@@ -184,7 +184,7 @@ const HeroDeveloper = () => {
             transition={{ duration: 0.8 }}
           />
           <Sparkles className="mr-2 h-3 w-3 group-hover:scale-110 transition-transform duration-300" />
-          <span className="relative z-10">⚡ PREMIUM DEVELOPER TOOLS</span>
+          <span className="relative z-10">100% UNC & SUNC</span>
         </motion.div>
 
         {/* Main Headline */}
