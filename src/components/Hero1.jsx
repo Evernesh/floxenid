@@ -192,7 +192,7 @@ const HeroDeveloper = () => {
           variants={itemVariants}
           className="text-4xl md:text-6xl lg:text-7xl font-bold leading-tight mb-6 text-transparent bg-clip-text bg-gradient-to-r from-white to-neutral-300"
         >
-          <span className="block text-emerald-400 mb-4">Code Beyond Limits</span>
+          <span className="block text-emerald-400 mb-4">The best executor</span>
           <span className="block">Built for Speed</span>
         </motion.h1>
 
@@ -202,7 +202,7 @@ const HeroDeveloper = () => {
           className="text-lg md:text-xl text-neutral-400 mb-12 max-w-3xl mx-auto leading-relaxed"
         >
           Build faster with our <span className="text-white font-medium">battle-tested scripts</span> and 
-          <span className="text-emerald-400 font-medium"> premium automation tools</span>. 
+          <span className="text-emerald-400 font-medium"> undetected bypass</span>. 
           <span className="text-blue-400 font-medium"> Deploy instantly</span> with zero configuration.
         </motion.p>
 
@@ -235,7 +235,7 @@ const HeroDeveloper = () => {
             
             <span className="relative z-10 flex items-center">
               <Rocket className="mr-3 h-5 w-5 group-hover:animate-bounce" />
-              Get Premium Access
+              Get Started
               <motion.div
                 className="ml-3"
                 animate={{ x: [0, 4, 0] }}
@@ -272,7 +272,7 @@ const HeroDeveloper = () => {
             
             <span className="relative z-10 flex items-center">
               <Code className="mr-3 h-5 w-5 group-hover:text-blue-400 group-hover:rotate-12 transition-all duration-300" />
-              Explore Open Source
+              Docs
               <motion.div
                 className="ml-3 opacity-0 group-hover:opacity-100 transition-opacity duration-300"
                 animate={{ x: [0, 4, 0] }}
